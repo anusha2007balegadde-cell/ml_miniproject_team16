@@ -1,0 +1,16 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Editors / OS
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+# Local backups of results (results/ itself IS tracked)
+results_*/
+
+# Internal team notes (not part of the submission)
+STEP_BY_STEP_GUIDE.md
