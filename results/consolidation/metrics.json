@@ -1,0 +1,14 @@
+{
+  "test_set": "10011 random points in (0,1) x (0,0.5)",
+  "relative_L2_error": 0.012856537776847265,
+  "max_abs_error": 0.259640375915066,
+  "mean_abs_error": 0.0037227910063333336,
+  "grid_relative_L2_error_t_gt_0": 0.010454661053856803,
+  "grid_max_abs_error_t_gt_0": 0.06876861628805442,
+  "grid_max_abs_error_incl_t0_jump": 0.6757450905545871,
+  "final_train_loss": 0.002698219381272793,
+  "final_test_pde_loss": 18.726396560668945,
+  "adam_epochs": 50000,
+  "lbfgs_max_iters": 10000,
+  "train_time_s": 904.9659245014191
+}
