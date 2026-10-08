@@ -1,0 +1,20 @@
+{
+  "mode": "random_add",
+  "test_set": "10011 random points in (0,1) x (0,0.5)",
+  "relative_L2_error": 0.008395296041903432,
+  "max_abs_error": 0.17271016055633187,
+  "mean_abs_error": 0.002317091706915493,
+  "grid_relative_L2_error_t_gt_0": 0.006630067477716867,
+  "grid_max_abs_error_t_gt_0": 0.06030277743369883,
+  "grid_max_abs_error_incl_t0_jump": 0.6196187344297092,
+  "final_train_loss": 0.002325642155483365,
+  "final_test_pde_loss": 98.96894073486328,
+  "initial_collocation_points": 500,
+  "total_collocation_points": 700,
+  "refinement_cycles": 5,
+  "points_added_per_cycle": 40,
+  "adam_epochs": 50000,
+  "lbfgs_max_iters": 10000,
+  "lbfgs_iters_used": 3154,
+  "train_time_s": 496.5124087333679
+}
