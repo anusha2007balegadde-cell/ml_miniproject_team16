@@ -1,0 +1,10 @@
+{
+  "relative_L2_error": 0.00904698104806691,
+  "max_abs_error": 0.01206805557012558,
+  "mean_abs_error": 0.0010174106829811637,
+  "mean_abs_error_on_boundary": 0.0029659138806164263,
+  "final_train_loss": 6.765634680050425e-06,
+  "adam_epochs": 50000,
+  "lbfgs_max_iters": 10000,
+  "train_time_s": 509.4249713420868
+}
