@@ -1,0 +1,12 @@
+{
+  "c_identified": 0.4114565849304199,
+  "k_identified": 3.990373373031616,
+  "c_true": 0.4,
+  "k_true": 4.0,
+  "c_error_percent": 2.864146232604975,
+  "k_error_percent": 0.24066567420959473,
+  "relative_L2_error_u": 0.011625414468468157,
+  "noise_level": 0.0,
+  "adam_epochs": 100000,
+  "train_time_s": 539.6571428775787
+}
