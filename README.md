@@ -124,4 +124,4 @@ No external dataset is used, which is standard for PINNs. Training data are coll
 | Name | SRN |
 |---|---|
 | Abhay A Kora | PES2UG24AM192 |
-| Anusha | PES2UG24AM195 |
+| Anusha B | PES2UG24AM195 |
